@@ -1,5 +1,5 @@
 # pytorch-cifar10
-Personal practice on CIFAR10 with PyTorch <br>
+Personal CIFAR10 practice with PyTorch on Nvidia GTX 1080 Ti <br>
 Inspired by [pytorch-cifar](https://github.com/kuangliu/pytorch-cifar) by [kuangliu](https://github.com/kuangliu). 
 
 ## Introduction
@@ -46,7 +46,7 @@ Models | Accuracy | Comments
 [VGG11](https://github.com/IvoryCandy/pytorch-cifar10/blob/master/models/VGG.py) | 87.48% | - - - -
 [VGG13](https://github.com/IvoryCandy/pytorch-cifar10/blob/master/models/VGG.py)  | 90.17% | - - - -
 [VGG16](https://github.com/IvoryCandy/pytorch-cifar10/blob/master/models/VGG.py) | 90.89% | - - - -
-[VGG19](https://github.com/IvoryCandy/pytorch-cifar10/blob/master/models/VGG.py) | TBD | - - - -
+[VGG19](https://github.com/IvoryCandy/pytorch-cifar10/blob/master/models/VGG.py) | 90.47% | - - - -
 [GoogleNet](https://github.com/IvoryCandy/pytorch-cifar10/blob/master/models/GoogleNet.py) | 92.57% | - - - -
 [ResNet18](https://github.com/IvoryCandy/pytorch-cifar10/blob/master/models/ResNet.py) | TBD | - - - -
 [ResNet34](https://github.com/IvoryCandy/pytorch-cifar10/blob/master/models/ResNet.py) | TBD | - - - -
