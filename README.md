@@ -42,7 +42,7 @@ __2.5e-4__ for [150,200) epochs <br>
 Models | Accuracy | Comments
 :---:|:---:|:---:
 [LeNet](https://github.com/IvoryCandy/pytorch-cifar10/blob/master/models/LeNet.py) | 67.52% | - - - -
-[Alexnet](https://github.com/IvoryCandy/pytorch-cifar10/blob/master/models/AlexNet.py) | 74.74% | Result is far away from my expectation (5%+). Reasons might be inappropriate modification to fit dataset(32x32 images). 
+[Alexnet](https://github.com/IvoryCandy/pytorch-cifar10/blob/master/models/AlexNet.py) | 74.65% | Result is far away from my expectation (5%+). Reasons might be inappropriate modification to fit dataset(32x32 images). 
 [VGG11](https://github.com/IvoryCandy/pytorch-cifar10/blob/master/models/VGG.py) | 87.48% | - - - -
 [VGG13](https://github.com/IvoryCandy/pytorch-cifar10/blob/master/models/VGG.py)  | 90.17% | - - - -
 [VGG16](https://github.com/IvoryCandy/pytorch-cifar10/blob/master/models/VGG.py) | 90.89% | - - - -
