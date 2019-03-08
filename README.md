@@ -53,7 +53,7 @@ Models | Accuracy | Comments
 [ResNet50](https://github.com/IvoryCandy/pytorch-cifar10/blob/master/models/ResNet.py) | TBD | - - - -
 [ResNet101](https://github.com/IvoryCandy/pytorch-cifar10/blob/master/models/ResNet.py) | TBD | - - - -
 [ResNet152](https://github.com/IvoryCandy/pytorch-cifar10/blob/master/models/ResNet.py) | TBD | - - - -
-[DenseNet121](https://github.com/IvoryCandy/pytorch-cifar10/blob/master/models/DenseNet.py) | TBD | - - - -
+[DenseNet121](https://github.com/IvoryCandy/pytorch-cifar10/blob/master/models/DenseNet.py) | 92.74% | - - - -
 [DenseNet161](https://github.com/IvoryCandy/pytorch-cifar10/blob/master/models/DenseNet.py) | TBD | - - - -
 [DenseNet169](https://github.com/IvoryCandy/pytorch-cifar10/blob/master/models/DenseNet.py) | 92.37% | - - - -
 [DenseNet201](https://github.com/IvoryCandy/pytorch-cifar10/blob/master/models/DenseNet.py) | TBD | - - - -
